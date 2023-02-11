@@ -18,3 +18,7 @@ Due to technological advancements, starting a business has never been easier tha
 
 >**U.S. Microbusiness Activity Index**: MAI developed by UCLA, this score tracks dozens of factors that impact the success of online micorbusinesses; it is made up of 3 subindices - infrastructure, particpation and engagement. The data collected is from April 2020 - June 2022.
 
+### Outcome
+I plan on developing a webapp, using StreamLit. This webapp will make it easier for policy makers and inverstors to get useful insights with respect to growing microbusiness, thus helping them identify industry growth and provide effective programs for these microbusinesses to thrive.
+
+
