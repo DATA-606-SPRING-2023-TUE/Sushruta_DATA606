@@ -9,14 +9,61 @@ This project is inspired from GoDaddy's Kaggle competition on [predicting monthl
 Due to technological advancements, starting a business has never been easier than it is right now. Studies have shown that more Americans are choosing to start their own businesses to achieve their financial goals, whether it's to achieve a better work/life balance, to pursue a passion, or as a result of losing their jobs. American policymakers strive to build more diverse and resilient economies. Microbusinesses are frequently too small or too new to be included in traditional economic data sources, making it extremely difficult for policymakers to conduct research on them. However, data science could fill in the gaps and provide insights into the factors influencing these businesses. 
 
 ### Dataset Description
-[Venture Forward](https://www.godaddy.com/ventureforward/microbusiness-datahub/), team at GoDaddy, produced datasets created from huge data of microbusinesses in the US. This data consists of Microbusiness with online presence and ten or fewer employees. They have also collected microbusiness owner's survey data for a timeframe of  2019 - 2022. This project utilizes 4 of 5 datasets from Venture Forward.
->**U.S. Microbusiness Density**: This Dataset consists of data from August 2019 - June 2022. It provides an insight to understanding the quantity and distribution of active microbusinesses across the country. Tis datset will help us understand where microbusinesses are taking hold and overtime changing patterns.
+[Venture Forward](https://www.godaddy.com/ventureforward/microbusiness-datahub/), team at GoDaddy, produced datasets created from huge data of microbusinesses in the US. This data consists of Microbusiness with online presence and ten or fewer employees. They have also collected microbusiness owner's survey data for a timeframe of  2019 - 2022. This project utilizes 4 datasets from Venture Forward.
 
->**Entrepreneur Survey Results: U.S. National & Cities**: This dataset provides unparalled insight from 21,000 microbusiness entrepreneurs, it consists of data from July 2019 - August 2022. The survey was conducted over 23 cities. This data is planned to be used for informing policies, programs and trends for diverse enterpreneurs in United States.
+**U.S. Microbusiness Activity Index**: MAI developed by UCLA, this score tracks dozens of factors that impact the success of online micorbusinesses; it is made up of 3 subindices - infrastructure, particpation and engagement. The data collected is from April 2020 - June 2022.
+> Features/variables in the dataset.
+> * date 
+> * cbsa 
+> * City,State 
+> * total_pop_20 - total population in 2020
+> * MAI_composite - composite index score for a given date
+> * engagement - measures how active websites are in the community.
+> * participation - measures the number of online microbusinesses and operators in the community
+> * infrastructure -  measures how prepared a community is to use the internet, in terms of necessary physical and intellectual infrastructure.
 
->**U.S. Microbusiness Industry and Commerce**: This data is taken from August 2019 - June 2022. It provides insights into online commercial activity trends like number of sellers, orders and gross mechandise value (GMV) that a microbusinesses was performing. 
+**U.S. MIcrobusiness Density**: It provides an insight to understanding the quantity and distribution of active microbusinesses across the country. This datset will help us understand where microbusinesses are taking hold and overtime changing patterns. This data is taken from August 2019 - June 2022
+> Features/variables in the dataset.
+>* city_name
+>* micro_metro
+>* total_pop_20
+>* active -  raw count of the number of active microbusinesses in a community
+>* md - microbusiness density measure 
 
->**U.S. Microbusiness Activity Index**: MAI developed by UCLA, this score tracks dozens of factors that impact the success of online micorbusinesses; it is made up of 3 subindices - infrastructure, particpation and engagement. The data collected is from April 2020 - June 2022.
+**U.S. Microbusiness Industry and Commerce**: It provides insights into online commercial activity trends like number of sellers, orders and gross mechandise value (GMV) that a microbusinesses was performing. This data is taken from August 2019 - June 2022.
+> Features/variables in the dataset.
+>* city_name
+>* groupflag -  to denote whether a CBSA is a micropolitan or a metropolitan statistical area.
+>* total_pop_20
+>* orders_rank - Monthly rank in terms of orders per 100 people for sites GoDaddy can see transactions in the respective geographic area
+>* merchants_rank - Monthly rank in terms of active merchants (online stores) per 100 people for sites GoDaddy can see transactions in the respective geographic area
+>* gmv_rank - Monthly rank in terms of transaction dollars per 100 people for sites GoDaddy can see transactions in the respective geographic area. GMV (Gross Merchandise Value).
+>* top3industries - The top three industries by transaction dollars for the given month in the respective geographic area
+>* avg_lifespan_mths- Average lifespan of existing websites, in months, for GoDaddy website + marketing customers, in the respective geographic area. 
+
+**Entrepreneur Survey Results: U.S. National & Cities**: This dataset provides unparalled insight from 21,000 microbusiness entrepreneurs, it consists of data from July 2019 - August 2022. The survey was conducted over 23 cities. This data is planned to be used for informing policies, programs and trends for diverse enterpreneurs in United States. The survey results originally consist of 372 variables, ranging from demographic details to the concerns faced by businesses owners with respcet to mmarketing and covid affecting their business.
+> Features/variables in the dataset.
+>* city
+>* state
+>* year
+>* month
+>* gender
+>* woman_owned, black_owned, latino_owned, vetran_owned, disability_owned, lgbtq_owned, hispanic, vetran
+>* education
+>* age
+>* biz_purpose
+>* industry
+>* num_employees
+>* biz_type
+>* biz_conduction
+>* biz_offerings
+>* biz_income_amt
+>* time_spent
+>* prior employemnt
+>* biz_consideration
+>* employement status
+>* growth goal
+>* marketing platform
 
 ### Outcome
 I plan on developing a webapp, using StreamLit. This webapp will make it easier for policy makers and inverstors to get useful insights with respect to growing microbusiness, thus helping them identify industry growth and provide effective programs for these microbusinesses to thrive.
