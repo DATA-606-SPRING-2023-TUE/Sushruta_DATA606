@@ -68,6 +68,7 @@ Due to technological advancements, starting a business has never been easier tha
 ### Technique
 * Clustering
 * Decision tree
+
 The above models will be used to predict the density of microbusineeses in a given city/state. Through this technique we try to find microbusiness hotspots in the US across cities and states.
 
 ### Outcome
