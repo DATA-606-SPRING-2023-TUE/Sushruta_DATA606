@@ -65,7 +65,12 @@ Due to technological advancements, starting a business has never been easier tha
 >* growth goal
 >* marketing platform
 
+### Technique
+* Clustering
+* Decision tree
+The above models will be used to predict the density of microbusineeses in a given city/state. Through this technique we try to find microbusiness hotspots in the US across cities and states.
+
 ### Outcome
-I plan on developing a webapp, using StreamLit. This webapp will make it easier for policy makers and inverstors to get useful insights with respect to growing microbusiness, thus helping them identify industry growth and provide effective programs for these microbusinesses to thrive.
+To make my visualization more user friendly, I plan on developing a webapp using StreamLit. This webapp will make it easier for policy makers and inverstors to get useful insights with respect to growing microbusiness, thus helping them identify industry growth and provide effective programs for these microbusinesses to thrive.
 
 
