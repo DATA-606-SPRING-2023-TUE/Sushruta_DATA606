@@ -14,7 +14,7 @@ Due to technological advancements, starting a business has never been easier tha
 **U.S. Microbusiness Activity Index**: MAI developed by UCLA, this score tracks dozens of factors that impact the success of online micorbusinesses; it is made up of 3 subindices - infrastructure, particpation and engagement. The data collected is from April 2020 - June 2022.
 > Features/variables in the dataset.
 > * date 
-> * cbsa 
+> * Zipcode 
 > * City,State 
 > * total_pop_20 - total population in 2020
 > * MAI_composite - composite index score for a given date
