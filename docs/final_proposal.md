@@ -4,4 +4,6 @@
 
 **Data Exploration:** In this step I checked if there is any correlation between the variables in every datset.
 
-For **U.S. Microbusiness Activity Index** dataset, below is the correlation between MAI composite, Infrastructure, Enagament and Participation. Infrastructure, Engagement and Particpation are the variables that contribute to the MAI composite calculation.
+For **U.S. Microbusiness Activity Index** dataset, below is the correlation between MAI composite, Infrastructure, Enagament and Participation. Infrastructure, Engagement and Particpation are the variables that contribute to the MAI composite calculation. This dataset consisted of data from April 2020 to June 2022.
+> Dataset columns (variables)
+> 
