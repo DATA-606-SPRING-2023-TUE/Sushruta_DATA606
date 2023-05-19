@@ -67,8 +67,13 @@ Following are the top 5 states that recorded the **lowest** traffic for the peri
 
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/61c4d802-1227-4c4b-8419-eadf94b7f45a)
 
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/004f50f9-2a9e-41db-8da8-70c594305017)
 
+## Time Series Analysis
 
+>U.S. Microbusiness Density:  This dataset is used to get a comprehensive insight into the quantity and distribution of active microbusinesses across the country at several geographic grains, including: CBSA, county, state, and national, normalized by population. Microbusiness density is a powerful tool for understanding where microbusinesses are taking hold and how those patterns are changing over time. Use this measure to help identify relationships to other key economic outcomes, such as unemployment, job creation, and household median income gains – all affected by microbusinesses The dataset had observations for the period of August 2018 - Junw 2022.
+
+Following are the top 5 states with the highest avg. of active websites recorded:
 
 
 
