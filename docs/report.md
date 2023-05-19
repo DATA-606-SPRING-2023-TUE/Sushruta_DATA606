@@ -53,13 +53,17 @@ The follwoing heatmap describes how these factors are related in measuring the M
 
 > U.S. Microbusiness Industry and Commerce: The Industry and Commerce dataset provides insight into the online commercial activity trends of microbusinesses at multiple geographic designations, including city, CBSA, county, and state. This unique dataset ranks all the covered communities based on the number of sellers, orders, and gross merchandise value (GMV) observed, providing a new lens into how effectively microbusinesses are performing. In addition, the dataset identifies the top 3 industry categories within the community, the average traffic we can observe, and the average microbusiness age, measured in months. The dataset consisted of observations from August 2019 - June 2022.
 
-Following are the top 5 states that recorded the highest traffic for the period of August 2019 - June 2022:
+Following are the top 5 states that recorded the **highest** traffic for the period of August 2019 - June 2022:
 
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/5672bdae-3016-4e65-b72f-eb0aae6dd64c) ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/77fec8e7-a39a-4949-ae1f-d6d7130420ee)
 
-Following are the top 5 states that recorded the lowest traffic for the period of August 2019 - June 2022:
+Following are the top 5 states that recorded the **lowest** traffic for the period of August 2019 - June 2022:
 
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/f755e5f2-bcd5-4f86-9e8c-dbfac07868ff) 
+
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/c9e5a6c1-9d3f-4d56-b96f-30b43d7de730)
+
+**Average Life Span of website sin U.S.**
 
 
 
