@@ -91,6 +91,10 @@ In the time series analysis of microbusiness density, the Microbusiness density 
 
 The ARIMA model focused on capturing the autocorrelation and trend in the time series data, while the SARIMA model additionally accounted for seasonal variations that might be present in the microbusiness density. By incorporating these models, it was possible to generate forecasts and insights regarding the expected trends, fluctuations, and seasonality of microbusiness density over time.
 
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/2cf1ee19-3a0b-4fdc-ae05-a3078fd27fe5)
+
+### ARIMA model forcasting
+
 
 
 
