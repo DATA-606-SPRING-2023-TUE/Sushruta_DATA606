@@ -48,5 +48,5 @@ The follwoing heatmap describes how these factors are related in measuring the M
  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/4cb7d19c-a539-4290-9eac-66b5fa814dd4) ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/d7bc0ed6-6703-4ad0-be2d-2cdf3b2312c6)
  
  States that recorded High and Low Participation levels
-
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/ef72dd72-b281-4d66-8477-f82e436ce61a) 
 
