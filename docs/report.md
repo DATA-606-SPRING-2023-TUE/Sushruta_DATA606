@@ -27,4 +27,10 @@ There are three datasets used in this project.
 > The Microbusiness Activity Index, created by economists at the UCLA Anderson Forecast in collaboration with GoDaddy Venture Forward, keeps track of hundreds of variables that have an impact on the success of online microbusinesses and combines them into a single composite score.Infrastructure, participation, and engagement make up the three subindices that comprise the overall score. This score, which is updated every quarter, is used to compare one community to others and monitor the success of initiatives designed to support the growth of microbusinesses. The Index offers the most recent picture of the situation of microbusinesses at the local, regional, state, and federal levels. This dataset consisted of observation from April 2020 - June 2022.
 
 ### U.S. Microbusiness Activity Index Dataset: 
-Following is the top 5 observation.
+Following is the top 5 observations.
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/d876e1e1-4eef-4785-a2c5-fbd0dbef7d1b)
+
+**Infrastructure** is the measure of how prepared a community is to use the internet (do they have th erequired physical and intellectual infrastructure).
+**Participation** is the number of online microbusiness and operators in the community.
+**Engagement** is the measure that whether a a community has active busniess websites.
+The follwoing heatmap describes how these factors are related in measuring the Mcirobusiness Activity Index for a community.
