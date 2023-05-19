@@ -1,7 +1,7 @@
 # Microbusiness Denisty in the U.S.
 **presentation link:** https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/blob/main/docs/capstone.pptx
 
-**youtube video link:** 
+**youtube video link:** https://youtu.be/kUH9eHlKj90
 
 ## Introduction
 American policymakers work to create economies that are more diverse and recession-proof. They are also aware that because to technological advancements, starting a business has never been easier than it is right now. Studies have shown that more Americans are choosing to start their own enterprises to achieve their financial goals, whether it's to achieve a better work/life balance, to pursue a passion, or as a result of losing their jobs. It is difficult for policymakers to research these "microbusinesses" since they are frequently too small or too new to appear in conventional economic data sources. However, data science might be able to close the gaps and offer insights into the elements that influence these organizations.
