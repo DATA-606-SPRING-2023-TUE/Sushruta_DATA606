@@ -38,6 +38,10 @@ Following is the top 5 observations.
 
 The follwoing heatmap describes how these factors are related in measuring the Mcirobusiness Activity Index for a community.
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/884f4224-b7f0-4869-b446-a460e7742d44)
- Uponn checking for state with Low infrastructure.
+
+ Upon checking for state with High and Low infrastructure:
  
+ ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/44c0c01a-90ed-4ec9-8fa3-eccdc23209c5) ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/367229d6-6d15-487f-92ca-df07b304cf45)
+
+ States that recorded High and Low Engagement levels:
 
