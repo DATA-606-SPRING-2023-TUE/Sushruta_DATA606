@@ -79,11 +79,17 @@ Following are the top 5 states with the highest avg. of active websites recorded
 
 Since California had the hoghest number of active websites, we perform time series on Californias data points.
 
-As per Augumented Dickey Fuller Test, the data set was non-stationary.
+As per Augumented Dickey Fuller Test, the data set was non-stationary. The dataset,  contained historical information on microbusiness density a time period from August 2018 - June 2022, was preprocessed to ensure consistency and stationarity. 
 
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/9b36ee9c-0cb2-448f-bbaf-2843fd46187b)
 
 We us differncing method to make it stationary.
+
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/e0a5ad2d-dc0f-4bc0-b5a8-fbf1e318be5a)
+
+In the time series analysis of microbusiness density, the Microbusiness density dataset was utilized to perform predictive analysis using ARIMA (AutoRegressive Integrated Moving Average) and SARIMA (Seasonal ARIMA) models. ARIMA is a widely used forecasting method that takes into account the autocorrelation and trend in time series data. SARIMA, an extension of ARIMA, incorporates seasonality in addition to the autocorrelation and trend components.
+
+The ARIMA model focused on capturing the autocorrelation and trend in the time series data, while the SARIMA model additionally accounted for seasonal variations that might be present in the microbusiness density. By incorporating these models, it was possible to generate forecasts and insights regarding the expected trends, fluctuations, and seasonality of microbusiness density over time.
 
 
 
