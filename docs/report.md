@@ -31,6 +31,13 @@ Following is the top 5 observations.
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/d876e1e1-4eef-4785-a2c5-fbd0dbef7d1b)
 
 **Infrastructure** is the measure of how prepared a community is to use the internet (do they have th erequired physical and intellectual infrastructure).
+
 **Participation** is the number of online microbusiness and operators in the community.
+
 **Engagement** is the measure that whether a a community has active busniess websites.
+
 The follwoing heatmap describes how these factors are related in measuring the Mcirobusiness Activity Index for a community.
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/884f4224-b7f0-4869-b446-a460e7742d44)
+ Uponn checking for state with Low infrastructure.
+ 
+
