@@ -103,6 +103,9 @@ The ARIMA model focused on capturing the autocorrelation and trend in the time s
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/5f79acf7-d9f9-4a3c-b3a0-f42d4bf0eaf5)
 
 
+The results of the predictive analysis using ARIMA and SARIMA provided valuable insights into the future behavior of microbusiness density. These insights could aid in understanding the potential growth, fluctuations, and seasonality patterns of microbusinesses in a given region. The application of ARIMA and SARIMA models allowed for data-driven decision-making and strategic planning, providing a valuable tool for understanding and predicting microbusiness density trends in the context of time.
+
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/dc3c309d-3d6d-474b-b1dc-64677b80ffd9)
 
 
 
