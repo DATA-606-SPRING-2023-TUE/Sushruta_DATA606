@@ -54,6 +54,7 @@ The follwoing heatmap describes how these factors are related in measuring the M
 > U.S. Microbusiness Industry and Commerce: The Industry and Commerce dataset provides insight into the online commercial activity trends of microbusinesses at multiple geographic designations, including city, CBSA, county, and state. This unique dataset ranks all the covered communities based on the number of sellers, orders, and gross merchandise value (GMV) observed, providing a new lens into how effectively microbusinesses are performing. In addition, the dataset identifies the top 3 industry categories within the community, the average traffic we can observe, and the average microbusiness age, measured in months. The dataset consisted of observations from August 2019 - June 2022.
 
 Following are the top 5 states that recorded the highest traffic:
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/5672bdae-3016-4e65-b72f-eb0aae6dd64c) 
 
 
 
