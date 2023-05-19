@@ -81,6 +81,13 @@ Since California had the hoghest number of active websites, we perform time seri
 
 As per Augumented Dickey Fuller Test, the data set was non-stationary.
 
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/9b36ee9c-0cb2-448f-bbaf-2843fd46187b)
+
+We us differncing method to make it stationary.
+
+
+
+
 
 
 
