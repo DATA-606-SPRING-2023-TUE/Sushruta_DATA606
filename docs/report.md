@@ -59,6 +59,8 @@ Following are the top 5 states that recorded the highest traffic for the period 
 
 Following are the top 5 states that recorded the lowest traffic for the period of August 2019 - June 2022:
 
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/f755e5f2-bcd5-4f86-9e8c-dbfac07868ff) 
+
 
 
 
