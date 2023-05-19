@@ -100,7 +100,7 @@ The ARIMA model focused on capturing the autocorrelation and trend in the time s
 
 ### SARIMA model foracting 
 
-
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/5f79acf7-d9f9-4a3c-b3a0-f42d4bf0eaf5)
 
 
 
