@@ -75,6 +75,11 @@ Following are the top 5 states that recorded the **lowest** traffic for the peri
 
 Following are the top 5 states with the highest avg. of active websites recorded:
 
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/69a85a94-5bb0-4e46-93e5-d7bdd01960d5)
+
+Since California had the hoghest number of active websites, we perform time series on Californias data points.
+
+As per Augumented Dickey Fuller Test, the data set was non-stationary.
 
 
 
