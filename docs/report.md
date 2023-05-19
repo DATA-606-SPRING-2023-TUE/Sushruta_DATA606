@@ -65,6 +65,10 @@ Following are the top 5 states that recorded the **lowest** traffic for the peri
 
 **Average Life Span of website sin U.S.**
 
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sushruta_DATA606/assets/75373728/61c4d802-1227-4c4b-8419-eadf94b7f45a)
+
+
+
 
 
 
